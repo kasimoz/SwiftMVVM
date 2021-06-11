@@ -2,7 +2,7 @@
 //  SwiftMVVMTests.swift
 //  SwiftMVVMTests
 //
-//  Created by MedyaSoftMobile on 27.05.2021.
+//  Created by KasimOzdemir on 27.05.2021.
 //
 
 import XCTest
